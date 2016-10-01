@@ -1,0 +1,6 @@
+{
+  "name": "Base-flask-python",
+  "tagline": "Base para proyectos desarrollados con Flask y Python",
+  "body": "# Base-flask-python\r\nBase para proyectos desarrollados con Flask y Python.\r\nFunciona perfectamente con [Heroku](https://www.heroku.com/)\r\n## Contenido\r\n***\r\n1. Archivo de requerimientos para instalar en el servidor \r\n2. Archivo Procfile para ejecutar la aplicación\r\n3. Archivo app.py con el código de ejecución\r\n4. Carpeta static con los ficheros css, las imagénes y ficheros js (Contenido estático)\r\n5. Carpeta templates con los ficheros html de la web\r\n\r\n#### Para instalar los requerimientos ingresa a la carpeta raíz y ejecuta: `pip install -r requirements.txt`\r\n#### Para inicial la aplicación en local ejecuta en la carpeta raíz: `python install`, luego ingresa a _**localhost:5000**_ en tu navegador.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
